@@ -95,6 +95,32 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+    # 🎮 游戏行业 (Game Industry)
+    - id: "gamelook"
+      name: "GameLook"
+      url: "http://www.gamelook.com.cn/feed"
+    
+    - id: "gcores"
+      name: "机核 Gcores"
+      url: "https://www.gcores.com/rss"
+
+    - id: "ign-news"
+      name: "IGN Global"
+      url: "https://feeds.ign.com/ign/news"
+
+    - id: "game-developer"
+      name: "Game Developer"
+      url: "https://www.gamedeveloper.com/rss.xml"
+    
+    - id: "kotaku"
+      name: "Kotaku"
+      url: "https://kotaku.com/rss"
+
+    # 🎲 棋盘游戏 (Board Games)
+    - id: "bgg"
+      name: "BoardGameGeek"
+      url: "https://boardgamegeek.com/rss/news"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"

@@ -249,3 +249,58 @@
 
 # 产业政策
 生产力
+
+# ═══════════════════════════════════════════════════════════════
+#                         游戏行业 (Game Industry)
+# ═══════════════════════════════════════════════════════════════
+
+[游戏行业]
+游戏
+电竞
+/腾讯|Tencent/
+/网易|NetEase/
+/米哈游|miHoYo/
+
+[棋盘游戏]
+Board Game
+Tabletop
+/D&D|Dragon|Dungeon/i
+Warhammer
+/Go|Weiqi|围棋/i
+Chess
+/Catan|卡坦岛/
+/Monopoly|大富翁/
+BoardGameGeek
+桌游
+剧本杀
+战棋
+/Magic The Gathering|MTG|万智牌/
+Steam
+主机
+手游
+PS5
+Switch
+Xbox
+
+[独立游戏]
+独立游戏
+Indie Game
+Roguelike
+Hades
+独立开发者
+/银河城|Metroidvania/
+
+[AI 游戏]
+AI 游戏
+Game AI
+NPC AI
+GenAI
+/英伟达|NVIDIA/i
+DLSS
+
+[Global Gaming]
+Gaming
+Esports
+PlayStation
+Nintendo
+/Kojima|小岛秀夫/
