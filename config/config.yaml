@@ -347,7 +347,7 @@ advanced:
     hotness: 0.1                      # 热度权重
 
   # 多账号限制
-  max_accounts_per_channel: 3         # 每个渠道最大账号数量
+  max_accounts_per_channel: 10         # 每个渠道最大账号数量
 
   # 消息分批大小（字节）- 内部配置，请勿修改
   batch_size:
